@@ -116,7 +116,7 @@ int main(int argc, char** argv)
 {
 	size_t file_size;
 	char* file_data;
-	int error = elu_c99_load_and_allocate_file("C:\\Users\\Sakari-N\\Desktop\\tsundere_violence_releases_raw.txt", &file_size, (void**)&file_data);
+	int error = elu_c99_load_and_allocate_file("C:\\Users\\Sakari-N\\Desktop\\TVRL\\raw_data\\tsundere_violence_releases_raw.txt", &file_size, (void**)&file_data);
 	assert(!error);
 
 	size_t count = line_count(file_size, file_data) - 1;
@@ -294,7 +294,7 @@ int main(int argc, char** argv)
 	*/
 
 	FILE* output = 0;
-	output = fopen("C:\\Users\\Sakari-N\\Desktop\\tsundere_violence_releases.json", "w");
+	output = fopen("C:\\Users\\Sakari-N\\Desktop\\TVRL\\tsundere_violence_releases.json", "w");
 
 	const char* note = "This list has been created from the release list of Tsundere Violence website and extended by Sakari N. When reading text from the file do not forget to properly parse escaped text.";
 	fprintf(output, "{\n\t\"note\" : \"%s\",\n\t\"list\" : [", note);
@@ -348,7 +348,7 @@ int main(int argc, char** argv)
 	fclose(output);
 	output = 0;
 
-	output = fopen("C:\\Users\\Sakari-N\\Desktop\\tsundere_violence_releases.txt", "w");
+	output = fopen("C:\\Users\\Sakari-N\\Desktop\\TVRL\\tsundere_violence_releases.txt", "w");
 
 	for (size_t i = 0; i != count; i += entry[i].count)
 	{
@@ -365,7 +365,7 @@ int main(int argc, char** argv)
 
 	size_t json_size;
 	char* json_data;
-	error = elu_c99_load_and_allocate_file("C:\\Users\\Sakari-N\\Desktop\\tsundere_violence_releases.json", &json_size, (void**)&json_data);
+	error = elu_c99_load_and_allocate_file("C:\\Users\\Sakari-N\\Desktop\\TVRL\\tsundere_violence_releases.json", &json_size, (void**)&json_data);
 	assert(!error);
 
 	/*

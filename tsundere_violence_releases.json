@@ -12100,16 +12100,16 @@
 		{
 			"cat_number" : 1816,
 			"cat" : "TV1816",
-			"artists" : [ "Dj Xzillan" ],
-			"name" : "OFFER EP",
-			"link" : "Download http://www.mediafire.com/file/ya9ttkal2phf40n/OFFER_EP.zip"
+			"artists" : [ "PANTSU SCUM", "Painful Acidic Mezzanine" ],
+			"name" : "Split",
+			"link" : "Download http://www.mediafire.com/file/8ojjiqzul81onjn/PSXPAMSLPIT.rar"
 		},
 		{
 			"cat_number" : 1816,
 			"cat" : "TV1816",
-			"artists" : [ "PANTSU SCUM", "Painful Acidic Mezzanine" ],
-			"name" : "Split",
-			"link" : "Download http://www.mediafire.com/file/8ojjiqzul81onjn/PSXPAMSLPIT.rar"
+			"artists" : [ "Dj Xzillan" ],
+			"name" : "OFFER EP",
+			"link" : "Download http://www.mediafire.com/file/ya9ttkal2phf40n/OFFER_EP.zip"
 		},
 		{
 			"cat_number" : 1817,
@@ -12397,6 +12397,13 @@
 			"artists" : [ "Temma", "wawawa" ],
 			"name" : "Temma​/​wawawa Split",
 			"link" : "Download https://tsundereviolence.bandcamp.com/album/temma-wawawa-split"
+		},
+		{
+			"cat_number" : 1861,
+			"cat" : "TV1861",
+			"artists" : [ "travongle" ],
+			"name" : "separately existing timelines",
+			"link" : "Download https://tsundereviolence.bandcamp.com/album/separately-existing-timelines"
 		}
 	]
 }
