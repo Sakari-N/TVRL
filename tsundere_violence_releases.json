@@ -3566,17 +3566,17 @@
 		},
 		{
 			"cat_number" : 510,
-			"cat" : "TV510CT",
-			"artists" : [ "Junpei" ],
-			"name" : "Scissors Project",
-			"link" : "Download https://memeless.bandcamp.com/releases"
-		},
-		{
-			"cat_number" : 510,
 			"cat" : "TV510",
 			"artists" : [ "Junpei" ],
 			"name" : "Scissors Project",
 			"link" : "Download http://www.mediafire.com/download/lrjicyi53qz84ud/Junpei+-+Scissors+Project.zip"
+		},
+		{
+			"cat_number" : 510,
+			"cat" : "TV510CT",
+			"artists" : [ "Junpei" ],
+			"name" : "Scissors Project",
+			"link" : "Download https://memeless.bandcamp.com/releases"
 		},
 		{
 			"cat_number" : 511,
@@ -4693,17 +4693,17 @@
 		},
 		{
 			"cat_number" : 710,
-			"cat" : "TV710",
-			"artists" : [ "Formicophilia" ],
-			"name" : "i really really hate you",
-			"link" : "Download https://formicophilia.bandcamp.com/album/i-really-really-hate-you"
-		},
-		{
-			"cat_number" : 710,
 			"cat" : "TV710CDR",
 			"artists" : [ "Formicophilia" ],
 			"name" : "i really really hate you",
 			"link" : "Purchase http://kunaki.com/sales.asp?PID=PX00ZZNQQ7&pp=1"
+		},
+		{
+			"cat_number" : 710,
+			"cat" : "TV710",
+			"artists" : [ "Formicophilia" ],
+			"name" : "i really really hate you",
+			"link" : "Download https://formicophilia.bandcamp.com/album/i-really-really-hate-you"
 		},
 		{
 			"cat_number" : 712,
@@ -9040,17 +9040,17 @@
 		},
 		{
 			"cat_number" : 1347,
-			"cat" : "TV1347",
-			"artists" : [ "sinner_z" ],
-			"name" : "dastardly",
-			"link" : "Download http://www.mediafire.com/file/akn96508ssyv726/sinner_z-dastardly.zi"
-		},
-		{
-			"cat_number" : 1347,
 			"cat" : "TV1347CDR-DVDR",
 			"artists" : [ "sinner_z" ],
 			"name" : "dastardly",
 			"link" : "Purchase [sold by artist]: https://sinnerz.bandcamp.com/album/dastardly"
+		},
+		{
+			"cat_number" : 1347,
+			"cat" : "TV1347",
+			"artists" : [ "sinner_z" ],
+			"name" : "dastardly",
+			"link" : "Download http://www.mediafire.com/file/akn96508ssyv726/sinner_z-dastardly.zi"
 		},
 		{
 			"cat_number" : 1348,
@@ -12100,13 +12100,6 @@
 		{
 			"cat_number" : 1816,
 			"cat" : "TV1816",
-			"artists" : [ "PANTSU SCUM", "Painful Acidic Mezzanine" ],
-			"name" : "Split",
-			"link" : "Download http://www.mediafire.com/file/8ojjiqzul81onjn/PSXPAMSLPIT.rar"
-		},
-		{
-			"cat_number" : 1816,
-			"cat" : "TV1816",
 			"artists" : [ "Dj Xzillan" ],
 			"name" : "OFFER EP",
 			"link" : "Download http://www.mediafire.com/file/ya9ttkal2phf40n/OFFER_EP.zip"
@@ -12404,6 +12397,13 @@
 			"artists" : [ "travongle" ],
 			"name" : "separately existing timelines",
 			"link" : "Download https://tsundereviolence.bandcamp.com/album/separately-existing-timelines"
+		},
+		{
+			"cat_number" : 1862,
+			"cat" : "TV1862",
+			"artists" : [ "FALSEBYTES" ],
+			"name" : "Kiseline 92",
+			"link" : "Download https://tsundereviolence.bandcamp.com/album/kiseline-92"
 		}
 	]
 }
