@@ -2691,17 +2691,17 @@
 		},
 		{
 			"cat_number" : 386,
-			"cat" : "TV386CT",
-			"artists" : [ "Ninja McTits" ],
-			"name" : "Discogs 卐 Fascists",
-			"link" : "Purchase http://tsundere-violence.webs.com/merchandise.htm"
-		},
-		{
-			"cat_number" : 386,
 			"cat" : "TV386",
 			"artists" : [ "Ninja McTits" ],
 			"name" : "Discogs 卐 Fascists",
 			"link" : "Download http://www.mediafire.com/download/kubosvl23nvsdj4/Discogs+%E5%8D%90+Fascists.rar"
+		},
+		{
+			"cat_number" : 386,
+			"cat" : "TV386CT",
+			"artists" : [ "Ninja McTits" ],
+			"name" : "Discogs 卐 Fascists",
+			"link" : "Purchase http://tsundere-violence.webs.com/merchandise.htm"
 		},
 		{
 			"cat_number" : 387,
@@ -3566,17 +3566,17 @@
 		},
 		{
 			"cat_number" : 510,
-			"cat" : "TV510",
-			"artists" : [ "Junpei" ],
-			"name" : "Scissors Project",
-			"link" : "Download http://www.mediafire.com/download/lrjicyi53qz84ud/Junpei+-+Scissors+Project.zip"
-		},
-		{
-			"cat_number" : 510,
 			"cat" : "TV510CT",
 			"artists" : [ "Junpei" ],
 			"name" : "Scissors Project",
 			"link" : "Download https://memeless.bandcamp.com/releases"
+		},
+		{
+			"cat_number" : 510,
+			"cat" : "TV510",
+			"artists" : [ "Junpei" ],
+			"name" : "Scissors Project",
+			"link" : "Download http://www.mediafire.com/download/lrjicyi53qz84ud/Junpei+-+Scissors+Project.zip"
 		},
 		{
 			"cat_number" : 511,
@@ -4294,17 +4294,17 @@
 		},
 		{
 			"cat_number" : 654,
-			"cat" : "TV654",
-			"artists" : [ "Recovering Hikikomori" ],
-			"name" : "静かな森",
-			"link" : "Download https://recoveringhikikomori.bandcamp.com/album/--3"
-		},
-		{
-			"cat_number" : 654,
 			"cat" : "TV654CT",
 			"artists" : [ "Recovering Hikikomori" ],
 			"name" : "静かな森",
 			"link" : "SOLD OUT"
+		},
+		{
+			"cat_number" : 654,
+			"cat" : "TV654",
+			"artists" : [ "Recovering Hikikomori" ],
+			"name" : "静かな森",
+			"link" : "Download https://recoveringhikikomori.bandcamp.com/album/--3"
 		},
 		{
 			"cat_number" : 655,
@@ -9040,17 +9040,17 @@
 		},
 		{
 			"cat_number" : 1347,
-			"cat" : "TV1347CDR-DVDR",
-			"artists" : [ "sinner_z" ],
-			"name" : "dastardly",
-			"link" : "Purchase [sold by artist]: https://sinnerz.bandcamp.com/album/dastardly"
-		},
-		{
-			"cat_number" : 1347,
 			"cat" : "TV1347",
 			"artists" : [ "sinner_z" ],
 			"name" : "dastardly",
 			"link" : "Download http://www.mediafire.com/file/akn96508ssyv726/sinner_z-dastardly.zi"
+		},
+		{
+			"cat_number" : 1347,
+			"cat" : "TV1347CDR-DVDR",
+			"artists" : [ "sinner_z" ],
+			"name" : "dastardly",
+			"link" : "Purchase [sold by artist]: https://sinnerz.bandcamp.com/album/dastardly"
 		},
 		{
 			"cat_number" : 1348,
@@ -12404,6 +12404,20 @@
 			"artists" : [ "FALSEBYTES" ],
 			"name" : "Kiseline 92",
 			"link" : "Download https://tsundereviolence.bandcamp.com/album/kiseline-92"
+		},
+		{
+			"cat_number" : 1864,
+			"cat" : "TV1864",
+			"artists" : [ "Cat Destroyer" ],
+			"name" : "Gabbamaniac",
+			"link" : "Download https://tsundereviolence.bandcamp.com/album/gabbamaniac"
+		},
+		{
+			"cat_number" : 1865,
+			"cat" : "TV1865",
+			"artists" : [ "IDIOT AND VIRGIN" ],
+			"name" : "SPLIT",
+			"link" : "Download https://tsundereviolence.bandcamp.com/album/split-2"
 		}
 	]
 }
