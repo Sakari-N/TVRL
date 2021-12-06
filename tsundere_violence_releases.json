@@ -4294,17 +4294,17 @@
 		},
 		{
 			"cat_number" : 654,
-			"cat" : "TV654CT",
-			"artists" : [ "Recovering Hikikomori" ],
-			"name" : "静かな森",
-			"link" : "SOLD OUT"
-		},
-		{
-			"cat_number" : 654,
 			"cat" : "TV654",
 			"artists" : [ "Recovering Hikikomori" ],
 			"name" : "静かな森",
 			"link" : "Download https://recoveringhikikomori.bandcamp.com/album/--3"
+		},
+		{
+			"cat_number" : 654,
+			"cat" : "TV654CT",
+			"artists" : [ "Recovering Hikikomori" ],
+			"name" : "静かな森",
+			"link" : "SOLD OUT"
 		},
 		{
 			"cat_number" : 655,
@@ -12418,6 +12418,13 @@
 			"artists" : [ "IDIOT AND VIRGIN" ],
 			"name" : "SPLIT",
 			"link" : "Download https://tsundereviolence.bandcamp.com/album/split-2"
+		},
+		{
+			"cat_number" : 1866,
+			"cat" : "TV1866",
+			"artists" : [ "･ﾟ✧(=✪ ᆺ ✪=)- ･ﾟ✧", "RAINBOW ★ STAR ★ 36" ],
+			"name" : "Split",
+			"link" : "https://tsundereviolence.bandcamp.com/album/split"
 		}
 	]
 }
